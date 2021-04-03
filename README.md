@@ -26,7 +26,7 @@ Code to compute an approximation of the Julia set of the quadratic p(z) = z^2 + 
 - `max_it`: the maximum number of iterations 
 
 **Output:**
-`X`, `Y`: two arrays of Cartesian coordinates approximating the Julia set.
+`X`, `Y`: two arrays of Cartesian coordinates approximating the Julia set
 
 ## K_CPM
 Code to compute an approximation of the filled-in Julia set of the quadratic p(z) = z^2 + c via the continuous potential method, using the helper function J_Pot

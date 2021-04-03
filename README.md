@@ -1,5 +1,5 @@
 # complex_dynamics
-Code relevant to my dissertation
+Code relevant to my dissertation. The algorithms were adapted from examples in “Fantastic deterministic fractals” written by Heinz-Otto Peitgen, the fourth chapter of the book *The science of fractal images* edited by Michael F. Barnsley et al.  
 
 ## J_BD
 Code to compute the binary decomposition of the filled-in Julia set of the quadratic p(z) = z^2 + c via the level set method, using the helper function J_Level_BD.

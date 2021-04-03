@@ -58,7 +58,7 @@ Code to compute an approximation of the filled-in Julia set of p(z) = z^2 + c vi
 - `threshold`: critical distance from the filled-in Julia set (in pixel units)
 
 **Output:**
-K: an array approximating the filled-in Julia set in the region desired, with the distance of each point near the boundary
+`K`: an array approximating the filled-in Julia set in the region desired, with the distance of each point near the boundary
 
 ## K_LSM
 Code to compute an approximation of the filled-in Julia set of p(z) = z^2 + c via the level set method, using the helper function J_Level.

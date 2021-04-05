@@ -132,3 +132,8 @@ Code to compute an approximation of the Mandelbrot set via the level set method,
 
 **Output:**
 `M`: an array approximating the Mandelbrot set in the region desired, with the level set decomposition of the complement
+
+
+**References:**
+H.-O. Peitgen. 'Fantastic deterministic fractals'. In: *The Science of Fractal Images*. Ed. by M. F. Barnsley, R. L. Devaney, B. B. Mandelbrot et al.
+New York City, New York: Springer, 1988. Chap. 4, pp. 169-218.
